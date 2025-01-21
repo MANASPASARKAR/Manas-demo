@@ -1,4 +1,4 @@
 # Manas-demo
 My first git repo
 <br>
-Author - Manas Pasarkar
+Author - Manas Makarand Pasarkar
